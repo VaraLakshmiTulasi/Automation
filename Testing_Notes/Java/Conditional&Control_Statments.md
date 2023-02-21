@@ -90,5 +90,18 @@ do
   *break*:
        We used break statement to terminate the loop or we don't want iteration &comeout off the loop.       
 
-
-   
+  *Switch case*:    
+     Here when we used to check multiple choices at same time.
+  *Syntax*:
+    switch(<expression>)
+    {
+        case<value1>:
+        //statements
+        break;
+        case<value2>:
+        //statements
+        break;
+        default:
+        //statements
+        break;
+    }   
